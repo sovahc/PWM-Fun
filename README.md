@@ -18,7 +18,7 @@ For building minimal LCD version of this project you need:
 * Any AVR programmer (You can use any usb arduino board with sketch ArduinoISP, don't forget to press "Upload Using Programmer")
 * Good soldering iron recomended.
 * M2.5 screws and nuts for mounting.
-* SATA to Molex adapter (cut the Molex connector).
+* SATA to Molex adapter (Not Molex to SATA!)
 
 You can add buzzer and 500 Ohm resistor if you like.
 
