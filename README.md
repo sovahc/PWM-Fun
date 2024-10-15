@@ -15,10 +15,13 @@ For building minimal LCD version of this project you need:
 * 7x SMD 220 Ohm resistor (R3 - R9)
 * SMD 100 nF capacitor (C1)
 * SMD(or not) 4.7 uF capacitor (C2)
-* Any AVR programmer (You can use any usb arduino board with sketch ArduinoISP, don't forget to press "Upload Using Programmer")
-* Good soldering iron recomended.
+* 7x angled PC Fan connector  
 * M2.5 screws and nuts for mounting.
 * SATA to Molex adapter (Not Molex to SATA!)
+
+Equipment:
+* Any AVR programmer (You can use any usb arduino board with sketch ArduinoISP, don't forget to press "Upload Using Programmer")
+* Good soldering iron recomended.
 
 You can add buzzer and 500 Ohm resistor if you like.
 
