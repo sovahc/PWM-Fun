@@ -23,3 +23,4 @@ For building minimal LCD version of this project you need:
 You can add buzzer and 500 Ohm resistor if you like.
 You can add WS2812 strip if you like.
 You can use the ATmega internal generator if you are not using the WS2812.
+Don't forget to short J1 if you not use U2 (probably you don't need U2)
