@@ -21,3 +21,5 @@ For building minimal LCD version of this project you need:
 * SATA to Molex adapter (cut the Molex connector).
 
 You can add buzzer and 500 Ohm resistor if you like.
+You can add WS2812 strip if you like.
+You can use the ATmega internal generator if you are not using the WS2812.
